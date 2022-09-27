@@ -1,3 +1,4 @@
+// TUGAS PERTAMA - STACK (tumpukan) dari modifikasi file paket.cpp
 // Samuel Andrey Aji Prasetya
 // A11.2021.1376
 // 43UG2
